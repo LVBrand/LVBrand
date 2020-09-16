@@ -1,6 +1,6 @@
 # <center> Hello there 👋, I'm Lucas
 
-## <center> A Computer Science student
+## <center> ENIB Student - Computer Science
 
 
 - 🦉 Currently learning Artificial Intelligence
