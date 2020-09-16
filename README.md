@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 ## I'm Lucas, a software engineering student
 
