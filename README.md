@@ -38,7 +38,7 @@
 
 <details>
   <summary>⚡️Top Languages</summary>
-  <img align="left" alt="maeldonn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVBrand&hide=c,makefile"/>
+  <img align="left" alt="LVBrandn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVBrand&hide=c,makefile"/>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
