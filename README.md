@@ -23,6 +23,8 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 - 🤜 Learn everything possible about AI
 - 🤜 Work on my own RPG game
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="LVBrand" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />][github]
