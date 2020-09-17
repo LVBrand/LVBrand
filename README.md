@@ -52,4 +52,4 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 [enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
 [github]: https://github.com/LVBrand
-[discord]: Luckane#9385
+[discord]: https://discordapp.com/channels/@me/Luckane#9385/
