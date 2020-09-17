@@ -29,7 +29,8 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 
 [<img align="left" alt="LVBrand" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />][github]
 [<img align="left" alt="lucas-brand-00b6651a6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/discord.svg " />][discord]
+[<img align="left" alt="luckane" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/steam.svg" />][steam]
+[<img align="left" alt="luckane" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -54,4 +55,5 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 [enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
 [github]: https://github.com/LVBrand
-[discord]: https://discordapp.com/channels/@me/Luckane#9385/
+[steam]: https://steamcommunity.com/id/Luckane
+[twitch]: https://www.twitch.tv/luckane
