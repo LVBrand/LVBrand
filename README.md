@@ -4,17 +4,15 @@
 
 <br />
 
-## About me:
+### About me:
 
 I am currently in the fourth year of engineering school at [ENIB][enib_web]. I work mainly in the field of video games and AI. My favourite languages are `Python` and `C#`.
 
-### What I do
+### What I do:
 
 - 🦉 Artificial Intelligence
 - 🦉 Video Game Development
 - 🦉 Data Science
-
-<br />
 
 ### My goals:
 
