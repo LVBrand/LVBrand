@@ -1,34 +1,47 @@
-<h1 align="center">Hello there 👋, I'm Lucas</h1>
-<h2 align="center">ENIB Student - Computer Science</h2>
+<h1 align="center"> 🦉Hello there🦉</h1>
+
+## I'm Lucas. Welcome to my GitHub!
 
 <br />
 
-- 🦉 Currently learning Artificial Intelligence
-- 🦉 I'm trying to improve my Python and C#/C++ skills
-- 🦉 2020 Goals: My first relevent AI projet
-- 🦉 Never stop learning
+## About me:
+
+I am currently in the fourth year of engineering school at [ENIB][enib_web]. I work mainly in the field of video games and AI. My favourite languages are `Python` and `C#`.
+
+### What I do
+
+- 🦉 Artificial Intelligence
+- 🦉 Video Game Development
+- 🦉 Data Science
 
 <br />
+
+### My goals:
+
+- 🤜 Make my own AI in a video game
+- 🤜 Develop an AI to enhance traditional animation
+- 🤜 Learn everything possible about AI
+- 🤜 Work on my own RPG game
 
 ### Connect with me:
 
 [<img align="left" alt="LVBrand" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />][github]
 [<img align="left" alt="lucas-brand-00b6651a6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="lef" alt="discord_lucas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/discord.svg " />][discord]
 
 <br />
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src=https://camo.githubusercontent.com/188581baa4eb9016e00bf07260f1fe6f12222b0a/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667 />
 <img align="left" alt="Jupyter Notebook" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png />
-<img align="left" alt="C#" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
- />
+<img align="left" alt="C#" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png />
+<img align="left" alt="Unity" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png />
 <img align="left" alt="C++" width="26px" src=https://camo.githubusercontent.com/b523c27bbf0caeb3820f3612030b75503cfce9af/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667 />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
 
 ---
 <details>
@@ -36,10 +49,7 @@
   <img align="left" alt="LVBrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LVBrand&show_icons=true&hide_border=true&hide=stars&include_all_commits=true"/>
 </details>
 
-<details>
-  <summary>⚡️Top Languages</summary>
-  <img align="left" alt="LVBrandn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVBrand&hide=c,makefile"/>
-</details>
-
+[enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
 [github]: https://github.com/LVBrand
+[discord]: Luckane#9385
