@@ -44,8 +44,8 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 <img align="left" alt="GitHub" width="51px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-
 ---
+<br />
 
 <details>
   <summary>⚡️Github Stats</summary>
