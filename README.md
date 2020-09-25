@@ -44,13 +44,13 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 <img align="left" alt="GitHub" width="51px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
----
-<br />
 
+<p>
 <details>
   <summary>⚡️Github Stats</summary>
   <img align="left" alt="LVBrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LVBrand&show_icons=true&hide_border=true&hide=stars&include_all_commits=true"/>
 </details>
+<br />
 
 [enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
