@@ -1,4 +1,4 @@
-<h1 align="center"> 🦉Hello there🦉</h1>
+<h1 align="center"> Hello there</h1>
 
 ## I'm Lucas. Welcome to my GitHub!
 
@@ -10,16 +10,16 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 
 ### What I do:
 
-- 🦉 Artificial Intelligence
-- 🦉 Video Game Development
-- 🦉 Data Science
+- Artificial Intelligence
+- Video Game Development
+- Data Science
 
 ### My goals:
 
-- 🤜 Make my own AI in a video game
-- 🤜 Develop an AI to enhance traditional animation
-- 🤜 Learn everything possible about AI
-- 🤜 Work on my own RPG game
+- Make my own AI in a video game
+- Develop an AI to enhance traditional animation
+- Learn everything possible about AI
+- Work on my own RPG game
 
 <br />
 
@@ -52,6 +52,7 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
   <img align="left" alt="LVBrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LVBrand&show_icons=true&hide_border=true&hide=stars&include_all_commits=true"/>
 </details>
 <br />
+🦉
 
 [enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
