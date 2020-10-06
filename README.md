@@ -18,7 +18,7 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 
 - Make my own AI in a video game
 - Develop an AI to enhance traditional animation
-- Learn everything possible about AI
+- Learn as much as possible about AI 🦉
 - Work on my own RPG game
 
 <br />
@@ -45,9 +45,7 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 
 <br /> 
 
----
 
-🦉
 
 [enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
