@@ -45,13 +45,6 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 
 <br />
 
----
-
-<details>
-  <summary>⚡️Github Stats</summary>
-  <img align="left" alt="LVBrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LVBrand&show_icons=true&hide_border=true&hide=stars&include_all_commits=true"/>
-</details>
-<br />
 🦉
 
 [enib_web]: https://www.enib.fr/fr/
