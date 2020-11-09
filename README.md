@@ -27,8 +27,6 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 
 [<img align="left" alt="LVBrand" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/github.svg" />][github]
 [<img align="left" alt="lucas-brand-00b6651a6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="luckane" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/steam.svg" />][steam]
-[<img align="left" alt="luckane" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
