@@ -12,7 +12,7 @@ I am currently in the fourth year of engineering school at [ENIB][enib_web]. I w
 
 - Artificial Intelligence
 - Video Game Development
-- Data Science
+- Virtual Reality
 
 ### My goals:
 
