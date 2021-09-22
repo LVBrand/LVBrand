@@ -1,6 +1,6 @@
 <h1 align="center"> 🦉Hello there🦉</h1>
 
-## Enchanté, moi c'est Lucas.
+## Bienvenue sur mon Github.
 
 <br />
 
