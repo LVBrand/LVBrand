@@ -38,5 +38,3 @@
 [enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
 [github]: https://github.com/LVBrand
-[steam]: https://steamcommunity.com/id/Luckane
-[twitch]: https://www.twitch.tv/luckane
