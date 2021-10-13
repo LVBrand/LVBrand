@@ -10,15 +10,13 @@
 
 ### Domaines :
 
-- 🦉 Intelligence artificielle
-- 🦉 Développement de jeux-vidéos
-- 🦉 Réalité virtuelle
+- 🦉 Intelligence artificielle / Data Science
+- 🦉 Développement de jeux-vidéos (Unity, Unreal Engine, Source 2)
+- 🦉 Réalité virtuelle / augmentée
 
-### Mes futurs projets :
+### Mes projets :
 
-- 🤜 Développer une IA dans un jeu-vidéo.
-- 🤜 Développer une IA pour améliorer l'animation traditionnelle.
-- 🤜 Créer mon propre RPG.
+- 🤜 Développement d'une IA pour améliorer l'animation traditionnelle.
 
 ### Mes réseaux :
 
