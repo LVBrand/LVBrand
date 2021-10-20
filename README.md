@@ -6,17 +6,20 @@
 
 ### À propos de moi :
 
-- Je suis étudiant en dernière année d'école d'ingnénieur à l'[ENIB][enib_web]. Je travaille principalement dans le domaine de l'IA, de la Réalité Virtuelle ainsi que le développement de jeux vidéos en `Python` ou en `C#`.
+- Je suis étudiant en dernière année d'école d'ingnénieur à l'[ENIB][enib_web] où j'effectue également un double diplôme (M2 Recherche SIIA - Systèmes Interactifs, Intelligents et Autonomes). Je travaille dans le domaine de l'IA, de la Réalité Virtuelle ainsi que le développement de jeux vidéos (`Unity`, `Unreal Engine`) principalement en `Python` ou en `C#`.
 
 ### Domaines :
 
 - 🦉 Intelligence artificielle / Data Science
-- 🦉 Développement de jeux-vidéos (Unity, Unreal Engine, Source 2)
+- 🦉 Développement de jeux-vidéos (Unity, Unreal Engine)
 - 🦉 Réalité virtuelle / augmentée
+- 🦉 Système autonomes et environnements virtuels
 
 ### Mes projets :
 
-- 🤜 Développement d'une IA pour améliorer l'animation traditionnelle.
+- 🤜 Global Game Jam 2020 : Space Escapers - Jeu de plateform. (`Unity2D`)
+- 🤜 Counter-Wastes Global Warming - Tower Defense. (`Unity2D`)
+- 🤜 Projet de Machine Learning Immersif : Détection de menace par un robot virtuel. (`Python`, `Scikit-Learn`, `pybullet`)
 
 ### Mes réseaux :
 
