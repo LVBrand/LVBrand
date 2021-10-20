@@ -6,7 +6,7 @@
 
 ### À propos de moi :
 
-- Je suis étudiant en dernière année d'école d'ingnénieur à l'[ENIB][enib_web] où j'effectue également un double diplôme (M2 Recherche SIIA - Systèmes Interactifs, Intelligents et Autonomes). Je travaille dans le domaine de l'IA, de la Réalité Virtuelle ainsi que le développement de jeux vidéos (`Unity`, `Unreal Engine`) principalement en `Python` ou en `C#`.
+- Je suis étudiant en dernière année d'école d'ingénieurs à l'[ENIB][enib_web] où j'effectue également un double diplôme (M2 Recherche SIIA - Systèmes Interactifs, Intelligents et Autonomes). Je travaille dans le domaine de l'IA, de la Réalité Virtuelle ainsi que dans le développement de jeux vidéos (`Unity`, `Unreal Engine`) et je programme principalement en `Python` et `C#`.
 
 ### Domaines :
 
