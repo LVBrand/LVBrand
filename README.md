@@ -19,7 +19,8 @@
 
 - 🤜 Global Game Jam 2020 : Space Escapers - Jeu de plateform. (`Unity2D`)
 - 🤜 Counter-Wastes Global Warming - Tower Defense. (`Unity2D`)
-- 🤜 Projet de Machine Learning Immersif : Détection de menace par un robot virtuel. (`Python`, `Scikit-Learn`, `pybullet`)
+- 🤜 Projet de Machine Learning Immersif : Détection de menace par un robot virtuel. (`Python`, `Keras`, `pybullet`)
+- 🤜 Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
 
 ### Mes réseaux :
 
