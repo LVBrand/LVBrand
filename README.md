@@ -10,17 +10,17 @@
 
 ### Domaines :
 
-- 🦉 Intelligence artificielle / Data Science
-- 🦉 Développement de jeux-vidéos (Unity, Unreal Engine)
-- 🦉 Réalité virtuelle / augmentée
-- 🦉 Système autonomes et environnements virtuels
+- Intelligence artificielle 
+- Développement de jeux-vidéos (Unity, Unreal Engine)
+- Réalité virtuelle / augmentée
+- Système autonomes et environnements virtuels
 
 ### Mes projets :
 
-- 🤜 Global Game Jam 2020 : Space Escapers - Jeu de plateform. (`Unity2D`, `C#`)
-- 🤜 Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
-- 🤜 Projet de Machine Learning Interactif : Classification d'images par un robot virtuel. (`Python`, `Keras`, `pybullet`)
-- 🤜 Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
+- Global Game Jam 2020 : Space Escapers - Jeu de plateform. (`Unity2D`, `C#`)
+- Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
+- Projet de Machine Learning Interactif : Classification d'images par un robot virtuel. (`Python`, `Keras`, `pybullet`)
+- Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
 
 ### Mes réseaux :
 
