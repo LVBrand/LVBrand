@@ -21,6 +21,7 @@
 - Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
 - Projet de Machine Learning Interactif : Classification d'images par un robot virtuel. (`Python`, `Keras`, `pybullet`)
 - Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
+- Projet de traitement du langage naturel : Estimation du niveau d'anglais textuel (`Python`,`Keras`,`scikit-learn`)
 
 ### Mes réseaux :
 
