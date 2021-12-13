@@ -22,6 +22,7 @@
 - Projet de Machine Learning Interactif : Classification d'images par un robot virtuel. (`Python`, `Keras`, `pybullet`)
 - Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
 - Projet de traitement du langage naturel : Estimation du niveau d'anglais textuel (`Python`,`Keras`,`scikit-learn`)
+- Bot discord permettant de faciliter l'envoi d'images et vidéos via des mots clés (`Python`)
 
 ### Mes réseaux :
 
