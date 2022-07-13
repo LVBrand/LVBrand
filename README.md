@@ -6,14 +6,13 @@
 
 ### À propos de moi :
 
-- Je suis étudiant en dernière année d'école d'ingénieurs à l'[ENIB][enib_web] où j'effectue également un double diplôme (M2 Recherche SIIA - Systèmes Interactifs, Intelligents et Autonomes). Je travaille dans le domaine de l'IA, de la Réalité Virtuelle ainsi que dans le développement de jeux vidéos (`Unity`, `Unreal Engine`) et je programme principalement en `Python` et `C#`.
+- Venant de terminer mes études d'ingénieur à l'[ENIB][enib_web] où j'ai effectué un double diplôme (M2 Recherche SIIA - Systèmes Interactifs, Intelligents et Autonomes). Je travaille dans le domaine de l'IA (Machine Learning, Deep Learning, Data Mining), la Réalité Virtuelle/Augmentée/Mixte ainsi que dans le développement de jeux vidéos (`Unity`, `Unreal Engine`) et je programme principalement en `Python`, `C++` et `C#`.
 
 ### Domaines :
 
-- Intelligence artificielle 
-- Développement de jeux-vidéos (Unity, Unreal Engine)
-- Réalité virtuelle / augmentée
-- Système autonomes et environnements virtuels
+- Intelligence artificielle et systèmes autonomes (Machine Learning)
+- Réalité virtuelle / augmentée / mixte (OpenVR, Unity, Unreal Engine)
+- Développement d'environnements virtuels et jeux-vidéos (Unity, Unreal Engine)
 
 ### Mes projets :
 
@@ -23,6 +22,7 @@
 - Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
 - Projet de traitement du langage naturel : Estimation du niveau d'anglais textuel (`Python`,`Keras`,`scikit-learn`)
 - Bot discord permettant de faciliter l'envoi d'images et vidéos via des mots clés (`Python`)
+- Wrapper OpenVR pour récupérer les données brutes des HTC Vive Trackers (`C++`)
 
 ### Mes réseaux :
 
