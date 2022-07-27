@@ -10,18 +10,18 @@
 
 ### Domaines :
 
-- Intelligence artificielle et systèmes autonomes (Machine Learning)
+- Intelligence artificielle et systèmes autonomes (Machine Learning, Deep Learning)
 - Réalité virtuelle / augmentée / mixte (OpenVR, Unity, Unreal Engine)
 - Développement d'environnements virtuels et jeux-vidéos (Unity, Unreal Engine)
 
 ### Mes projets :
 
+- Projet de traitement du langage naturel : Estimation du niveau d'anglais textuel (`Python`,`Keras`,`scikit-learn`)
+- Projet de Machine Learning Interactif : Classification d'images par un robot virtuel. (`Python`, `Keras`, `pybullet`)
+- Bot discord permettant de faciliter l'envoi d'images et vidéos via des mots clés (`Python`)
 - Global Game Jam 2020 : Space Escapers - Jeu de plateform. (`Unity2D`, `C#`)
 - Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
-- Projet de Machine Learning Interactif : Classification d'images par un robot virtuel. (`Python`, `Keras`, `pybullet`)
 - Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
-- Projet de traitement du langage naturel : Estimation du niveau d'anglais textuel (`Python`,`Keras`,`scikit-learn`)
-- Bot discord permettant de faciliter l'envoi d'images et vidéos via des mots clés (`Python`)
 - Wrapper OpenVR pour récupérer les données brutes des HTC Vive Trackers (`C++`)
 
 ### Mes réseaux :
