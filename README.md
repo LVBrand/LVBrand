@@ -16,8 +16,8 @@
 
 ### Mes projets :
 
-- Projet de traitement du langage naturel : Estimation du niveau d'anglais textuel (`Python`,`Keras`,`scikit-learn`)
-- Projet de Machine Learning Interactif : Classification d'images par un robot virtuel. (`Python`, `Keras`, `pybullet`)
+- Projet de traitement du langage naturel : [Estimation du niveau d'anglais textuel.][nlp_project] (`Python`,`Keras`,`scikit-learn`)
+- Projet de Machine Learning Interactif : [Classification d'images par un robot virtuel.][cnn_project] (`Python`, `Keras`, `pybullet`)
 - Bot discord permettant de faciliter l'envoi d'images et vidéos via des mots clés (`Python`)
 - Global Game Jam 2020 : Space Escapers - Jeu de plateform. (`Unity2D`, `C#`)
 - Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
@@ -40,3 +40,5 @@
 [enib_web]: https://www.enib.fr/fr/
 [linkedin]: https://www.linkedin.com/in/lucas-brand-00b6651a6/
 [github]: https://github.com/LVBrand
+[nlp_project]: https://github.com/ThomasCochou/English_proficiency_prediction_NLP
+[cnn_project]: https://github.com/LVBrand/Projet_IML_Robot_Detection
