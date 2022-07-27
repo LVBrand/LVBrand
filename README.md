@@ -19,9 +19,9 @@
 - Projet de traitement du langage naturel : [Estimation du niveau d'anglais textuel.][nlp_project] (`Python`,`Keras`,`scikit-learn`)
 - Projet de Machine Learning Interactif : [Classification d'images par un robot virtuel.][cnn_project] (`Python`, `Keras`, `pybullet`)
 - Bot discord permettant de faciliter l'envoi d'images et vidéos via des mots clés (`Python`)
-- Global Game Jam 2020 : Space Escapers - Jeu de plateform. (`Unity2D`, `C#`)
+- Global Game Jam 2020 : [Space Escapers][ggj20] - Jeu de plateform. (`Unity2D`, `C#`)
 - Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
-- Mise en place d'un environnement virtuel interactif et collaboratif (`Unity3D`, `Photon`, `C#`) 
+- Mise en place d'un [environnement virtuel interactif et collaboratif][unity_photon] (`Unity3D`, `Photon`, `C#`) 
 - Wrapper OpenVR pour récupérer les données brutes des HTC Vive Trackers (`C++`)
 
 ### Mes réseaux :
@@ -42,3 +42,5 @@
 [github]: https://github.com/LVBrand
 [nlp_project]: https://github.com/ThomasCochou/English_proficiency_prediction_NLP
 [cnn_project]: https://github.com/LVBrand/Projet_IML_Robot_Detection
+[ggj20]: https://github.com/LVBrand/Global-Game-Jam-2020
+[unity_photon]: https://github.com/LVBrand/Unity3D-Photon-Interactive-and-Collaborative-Environment
