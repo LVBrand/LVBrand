@@ -22,7 +22,7 @@
 - Global Game Jam 2020 : [Space Escapers][ggj20] - Jeu de plateform. (`Unity2D`, `C#`)
 - Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
 - Mise en place d'un [environnement virtuel interactif et collaboratif][unity_photon] (`Unity3D`, `Photon`, `C#`) 
-- Wrapper OpenVR pour récupérer les données brutes des HTC Vive Trackers (`C++`)
+- Wrapper OpenVR pour récupérer les données brutes des HTC Vive Trackers (`C++`, `C#`, `Unity3D`)
 
 ### Mes réseaux :
 
