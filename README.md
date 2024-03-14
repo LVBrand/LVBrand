@@ -6,7 +6,7 @@
 
 ### À propos de moi :
 
-- Doctorant à l'[ENIB][enib_web] en informatique. Mes recherches portent sur la collaboration à distance en Réalité Mixte, la représentation des connaissances et des activités et les interfaces tangibles.  Je développe sur `Unity` et `Unreal Engine` et je programme principalement en `Python`, `C++` et `C#`.
+- Doctorant en informatique à l'[ENIB][enib_web]. Mes recherches portent sur la collaboration à distance en Réalité Mixte, la représentation des connaissances et des activités et les interfaces tangibles.  Je développe sur `Unity` et `Unreal Engine` et je programme principalement en `Python`, `C++` et `C#`.
 
 ### Domaines :
 
@@ -46,5 +46,5 @@
 [nlp_project]: https://github.com/ThomasCochou/English_proficiency_prediction_NLP
 [cnn_project]: https://github.com/LVBrand/Projet_IML_Robot_Detection
 [ggj20]: https://github.com/LVBrand/Global-Game-Jam-2020
-[ggj22] : https://v3.globalgamejam.org/2023/games/carrotee-kids-6 
+[ggj22]: https://v3.globalgamejam.org/2023/games/carrotee-kids-6 
 [unity_photon]: https://github.com/LVBrand/Unity3D-Photon-Interactive-and-Collaborative-Environment
