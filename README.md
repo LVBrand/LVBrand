@@ -6,23 +6,26 @@
 
 ### À propos de moi :
 
-- Venant de terminer mes études d'ingénieur à l'[ENIB][enib_web] où j'ai effectué un double diplôme (M2 Recherche SIIA - Systèmes Interactifs, Intelligents et Autonomes). Je travaille dans le domaine de l'IA (Machine Learning, Deep Learning, Data Mining), la Réalité Virtuelle/Augmentée/Mixte ainsi que dans le développement de jeux vidéos (`Unity`, `Unreal Engine`) et je programme principalement en `Python`, `C++` et `C#`.
+- Doctorant à l'[ENIB][enib_web] en informatique. Mes recherches portent sur la collaboration à distance en Réalité Mixte, la représentation des connaissances et des activités et les interfaces tangibles.  Je développe sur `Unity` et `Unreal Engine` et je programme principalement en `Python`, `C++` et `C#`.
 
 ### Domaines :
 
-- Intelligence artificielle et systèmes autonomes (Machine Learning, Deep Learning)
-- Réalité virtuelle / augmentée / mixte (OpenVR, Unity, Unreal Engine)
+- Réalité virtuelle / augmentée / mixte (OpenXR, Unity, Unreal Engine)
 - Développement d'environnements virtuels et jeux-vidéos (Unity, Unreal Engine)
+- Intelligence artificielle et systèmes autonomes (Machine Learning, Deep Learning)
 
 ### Mes projets :
 
+- Wrapper OpenVR pour récupérer les données brutes des HTC Vive Trackers (`C++`, `C#`, `Unity3D`)
+- Mise en place d'un [environnement virtuel interactif et collaboratif][unity_photon] (`Unity3D`, `Photon`, `C#`) 
+- Global Game Jam 2020 : [Space Escapers][ggj20] - Jeu de plateform. (`Unity2D`, `C#`)
+- Global Game Jam 2022 : [Carrotee Kids][ggj22] - Jeu asymétrique en Réalité Mixte (`Unreal Engine 5`, `C++`, `Blueprint`)
+- Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
 - Projet de traitement du langage naturel : [Estimation du niveau d'anglais textuel.][nlp_project] (`Python`,`Keras`,`scikit-learn`)
 - Projet de Machine Learning Interactif : [Classification d'images par un robot virtuel.][cnn_project] (`Python`, `Keras`, `pybullet`)
 - Bot discord permettant de faciliter l'envoi d'images et vidéos via des mots clés (`Python`)
-- Global Game Jam 2020 : [Space Escapers][ggj20] - Jeu de plateform. (`Unity2D`, `C#`)
-- Counter-Wastes Global Warming - Tower Defense. (`Unity2D`, `C#`)
-- Mise en place d'un [environnement virtuel interactif et collaboratif][unity_photon] (`Unity3D`, `Photon`, `C#`) 
-- Wrapper OpenVR pour récupérer les données brutes des HTC Vive Trackers (`C++`, `C#`, `Unity3D`)
+
+
 
 ### Mes réseaux :
 
@@ -43,4 +46,5 @@
 [nlp_project]: https://github.com/ThomasCochou/English_proficiency_prediction_NLP
 [cnn_project]: https://github.com/LVBrand/Projet_IML_Robot_Detection
 [ggj20]: https://github.com/LVBrand/Global-Game-Jam-2020
+[ggj22] : https://v3.globalgamejam.org/2023/games/carrotee-kids-6 
 [unity_photon]: https://github.com/LVBrand/Unity3D-Photon-Interactive-and-Collaborative-Environment
